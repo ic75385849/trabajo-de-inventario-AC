@@ -1,0 +1,7 @@
+afrechos:100
+alimentos:200
+purina:210
+engorde:400
+hematopan:230
+inicio:300
+polvillo:200
